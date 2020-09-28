@@ -1,1 +1,3 @@
-# cv
+# CV
+### Kónya Balázs
+világéletemben hatékony voltam
